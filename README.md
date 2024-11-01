@@ -49,4 +49,5 @@ Adding support for additional sensors and expanding the coverage of environmenta
 # Authors
 
 Eliana Samudio - Bachelor of Science in Agricultural Technology Management
+
 Yanik Sitta - Master´s of Science in Data Analytics
