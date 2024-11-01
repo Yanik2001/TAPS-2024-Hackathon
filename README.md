@@ -1,4 +1,4 @@
-# TAPS-2024-Hackathon
+### TAPS-2024-Hackathon
 
 # Overview
 
@@ -6,19 +6,19 @@ This project consists of four interconnected Jupyter notebooks designed to monit
 
 # Notebooks Description
 
-## Landing Page (Landing_page.ipynb************************************************************)
+## Landing Page (Landing_page.ipynb)
 
 This is the main interface for the project. It acts as a main component to navigate between different data analysis notebooks. Each created section in this notebook links to a specific notebook that analyzes various environmental parameters. It also provides an overview of the system, allowing easy access to different aspects of data analysis.
 
-## Weather Data (Weather_data.ipynb************************************************************)
+## Weather Data (Weather_data.ipynb)
 
 This notebook focuses on organizing, cleaning and developing weather data, including precipitation, air temperature, and other atmospheric conditions. It brings insights after considering various weather factors. It includes interactive visualizations that help users understand the relationships between weather parameters and their effect on the environment.
 
-## Soil Data (Soil_data.ipynb************************************************************)
+## Soil Data (Soil_data.ipynb)
 
 The Soil_data.ipynb notebook is used for analyzing soil characteristics, including the nutrients that are present in the soil. The goal is to monitor soil conditions to determine the health of the soil. This notebook is instrumental in understanding the current state of the soil in response to varying environmental conditions.
 
-## Irrigation Data (Irrigation_data.ipynb************************************************************)
+## Irrigation Data (Irrigation_data.ipynb)
 
 This notebook provides insights into the irrigation system by analyzing water use and efficiency metrics. It works in conjunction with soil and weather data to create an automated irrigation schedule, aiming to optimize water use based on real-time environmental and soil parameters.
 
