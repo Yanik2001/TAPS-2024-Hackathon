@@ -1,6 +1,6 @@
 # TAPS-2024-Hackathon
 
-### Overview
+## Overview
 
 This project consists of four interconnected Jupyter notebooks designed to monitor and analyze weather, soil and irrigation data. The main entry point is the Landing_page.ipynb, which serves as a dashboard to navigate between other notebooks, each providing specific insights into weather conditions, soil characteristics, and irrigation data. The entire suite helps automate decision-making for agricultural processes, such as irrigation scheduling, by utilizing interactive plots and data analysis.
 
